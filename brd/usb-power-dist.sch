@@ -35,14 +35,14 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
+Title "USB power dist"
+Date "2017-04-28"
 Rev ""
-Comp ""
-Comment1 ""
+Comp "Akornsys-rdi"
+Comment1 "https://github.com/akornsys-rdi/USB-power-dist"
 Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment3 "Copyright (C) 2017 kwendenarmo"
+Comment4 "Released under GNU/GPL 3 License https://www.gnu.org/licenses/gpl.html"
 $EndDescr
 $Comp
 L TPS2513 U3
