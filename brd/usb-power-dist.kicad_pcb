@@ -6,7 +6,7 @@
     (area 101.330001 62.705 226.197142 139.733001)
     (thickness 1.6)
     (drawings 71)
-    (tracks 238)
+    (tracks 237)
     (zones 0)
     (modules 40)
     (nets 21)
@@ -2162,7 +2162,6 @@
     (arrow2b (pts (xy 114.681 81.026) (xy 115.267421 82.152504)))
   )
 
-  (segment (start 201.93 128.016) (end 201.93 127.635) (width 0.254) (layer F.Cu) (net 0))
   (segment (start 132.1308 84.6836) (end 145.7706 84.6836) (width 5.08) (layer B.Cu) (net 1))
   (segment (start 132.1308 84.6836) (end 144.5514 84.6836) (width 5.08) (layer F.Cu) (net 1))
   (segment (start 164.973 84.709) (end 160.655 84.709) (width 3.81) (layer F.Cu) (net 1))
