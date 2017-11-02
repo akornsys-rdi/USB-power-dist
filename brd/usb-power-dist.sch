@@ -64,7 +64,7 @@ P 4150 2050
 F 0 "U1" H 4300 2200 50  0000 C CNN
 F 1 "TPS2552D" H 4550 1700 50  0000 C CNN
 F 2 "TO_SOT_Packages_SMD:SOT-23-6_Handsoldering" H 4150 2050 50  0001 C CNN
-F 3 "DOCUMENTATION" H 4150 2050 50  0001 C CNN
+F 3 "" H 4150 2050 50  0001 C CNN
 F 4 "TPS2552DBVT" H 4150 2050 60  0001 C CNN "Vendor"
 F 5 "Texas Instruments" H 4150 2050 60  0001 C CNN "Manufacturer"
 	1    4150 2050
@@ -1119,4 +1119,12 @@ F 5 "Bourns" H 4950 4800 60  0001 C CNN "Manufacturer"
 	1    4950 4800
 	1    0    0    -1  
 $EndComp
+Text Label 5550 3350 0    60   ~ 0
+D1+
+Text Label 5550 3450 0    60   ~ 0
+D1-
+Text Label 5550 3650 0    60   ~ 0
+D2+
+Text Label 5550 3750 0    60   ~ 0
+D2-
 $EndSCHEMATC
