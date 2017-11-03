@@ -1,4 +1,4 @@
-update=mié 12 abr 2017 17:13:31 CEST
+update=vie 03 nov 2017 20:27:55 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,4 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=TPS2552D
+LibName30=lib/TPS2552D
