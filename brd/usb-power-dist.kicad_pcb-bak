@@ -1,9 +1,9 @@
 (kicad_pcb (version 4) (host pcbnew 4.0.7-e2-6376~58~ubuntu16.04.1)
 
   (general
-    (links 70)
+    (links 0)
     (no_connects 0)
-    (area 101.330001 62.705 205.957143 139.733001)
+    (area 101.330001 62.705 189.174429 139.733001)
     (thickness 1.6)
     (drawings 88)
     (tracks 298)
@@ -1616,7 +1616,7 @@
     )
   )
 
-  (module brd:akorn-logo-small (layer F.Cu) (tedit 0) (tstamp 59FBA3BC)
+  (module lib:akorn-logo-small (layer F.Cu) (tedit 0) (tstamp 59FCC5B0)
     (at 145.542 100.076)
     (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
       (effects (font (thickness 0.3)))

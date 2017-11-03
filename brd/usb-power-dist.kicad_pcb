@@ -1,7 +1,7 @@
 (kicad_pcb (version 4) (host pcbnew 4.0.7-e2-6376~58~ubuntu16.04.1)
 
   (general
-    (links 0)
+    (links 70)
     (no_connects 0)
     (area 101.330001 62.705 189.174429 139.733001)
     (thickness 1.6)
@@ -314,11 +314,11 @@
     )
   )
 
-  (module Wire_Connections_Bridges:WireConnection_2.50mmDrill_LargePad (layer F.Cu) (tedit 59AD0962) (tstamp 58F7BA34)
+  (module Wire_Connections_Bridges:WireConnection_2.50mmDrill_LargePad (layer F.Cu) (tedit 59FCC774) (tstamp 58F7BA34)
     (at 132.2578 84.1756 270)
     (descr "WireConnection with 2.5mm drill and large pads")
     (path /58EEF23D)
-    (fp_text reference J2 (at -2.1336 -2.1082 360) (layer F.SilkS)
+    (fp_text reference J2 (at -2.1336 -2.1082 360) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value "CASC IN" (at 5.2324 -2.1082 270) (layer F.Fab) hide
@@ -330,11 +330,11 @@
       (net 2 GND))
   )
 
-  (module Wire_Connections_Bridges:WireConnection_2.50mmDrill_LargePad (layer F.Cu) (tedit 59AD8E15) (tstamp 58EE5D75)
+  (module Wire_Connections_Bridges:WireConnection_2.50mmDrill_LargePad (layer F.Cu) (tedit 59FCC770) (tstamp 58EE5D75)
     (at 167.005 84.709 270)
     (descr "WireConnection with 2.5mm drill and large pads")
     (path /58EEC601)
-    (fp_text reference J3 (at -2.667 5.715 360) (layer F.SilkS)
+    (fp_text reference J3 (at -2.667 5.715 360) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value "CASC OUT" (at 4.953 5.715 270) (layer F.Fab) hide
