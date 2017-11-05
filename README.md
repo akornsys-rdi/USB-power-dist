@@ -21,4 +21,4 @@ Simple USB power distribution with dual DCP
 
 # Power supply
 
-    4 to 30V input to 5.2V @ 3.5A (LM5176)
+    6 to 26V input to 5.2V @ 6.5A (LM25085)
